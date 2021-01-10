@@ -1,0 +1,14 @@
+{
+  "name": "nodeApp",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Oskar Gustafsson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
